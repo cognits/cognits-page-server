@@ -1,0 +1,23 @@
+{
+  "name": "cognits-page",
+  "version": "1.0.0",
+  "description": "New cognits page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cognits Team",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-imagemin": "^2.2.1",
+    "gulp-minify-css": "^1.1.6",
+    "gulp-ngmin": "^0.3.0",
+    "gulp-uglify": "^1.2.0",
+    "gulp-uglifyjs": "^0.6.2"
+  },
+  "dependencies": {
+    "imagemin-jpegtran": "^4.1.0",
+    "imagemin-optipng": "^4.2.0"
+  }
+}

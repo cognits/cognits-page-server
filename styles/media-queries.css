@@ -2,6 +2,8 @@
   #panel {
     margin-left: -19%
   }
+
+  
 }
 
 @media (min-width:1600px) {
@@ -114,12 +116,12 @@
   background-image: url(../images/img-movil/home-image.png);
   }
   .fondoCognits {
-    background-image: url(../images/img-movil/cognits2.png);
+    background-image: url(../images/img-movil/cognits.png);
     background-size: 111%!important;
     background-position: 1% 0%!important;
   }
   .fondoCognits1 {
-    background-image: url(../images/img-movil/cognits.png);
+    background-image: url(../images/img-movil/cognits-2.png);
     background-position: -42.2% 100.1%!important;
     background-size: 108.28%!important;
   }

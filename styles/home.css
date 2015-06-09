@@ -366,7 +366,7 @@ select {
 
 .formaDiagonalInversaContact {
   width: 100%!important;
-  height: 700px!important;
+  height: 750px!important;
   background-size: 100%;
   margin-top: 34.5%;
   background-color: #fff;
@@ -387,13 +387,14 @@ select {
   color: #000
 }
 .homeImage{
-  background-image: url(../images/fondos/img_bg-cover.jpg);
+  
+  background-image: url(../images/img-movil-1500/home-image.png);
   background-repeat: no-repeat!important;
   background-size: 100%!important;
   background-position: 0 0!important
 }
 .homeImage2{
-  background-image: url(../images/fondos/img_bg-cover-2.jpg);
+  background-image: url(../images/img-movil-1500/home-image2.png);
   background-repeat: no-repeat!important;
   background-size: 98.9%!important;
   background-position: 103% 97%!important;
@@ -404,38 +405,38 @@ select {
   background-size: 115%!important
 }
 .manoCel{
-  background-image: url(../images/fondos/m2.png);
+  background-image: url(../images/img-movil-1500/phone2.png);
   background-position: -54px 0!important
 }
 
 .manoCel2{
-  background-image: url(../images/fondos/m1.png);
+  background-image: url(../images/img-movil-1500/phone.png);
   background-position: -54px 100%!important
 }
 
 .fondoCognits {
-  background-image: url(../images/fondos/cognits2.png);
+  background-image: url(../images/img-movil-1500/cognits.png);
   background-repeat: no-repeat!important;
   background-size: 112%!important;
   background-position: 0 0!important
 }
 
 .fondoCognits1 {
-  background-image: url(../images/fondos/cognits1.png);
+  background-image: url(../images/img-movil-1500/cognits2.png);
   background-repeat: no-repeat!important;
   background-size: 111%!important;
   background-position: -10% 100%!important
 }
 
 .grupo {
-  background-image: url(../images/fondos/grupo2.png);
+  background-image: url(../images/img-movil-1500/group-cognits2.png);
   background-repeat: no-repeat!important;
   background-size: 112%!important;
   background-position: 0 0!important
 }
 
 .grupo2 {
-  background-image: url(../images/fondos/grupo1.png);
+  background-image: url(../images/img-movil-1500/group-cognits.png);
   background-repeat: no-repeat!important;
   background-size: 112.2%!important;
   background-position: 0 100%!important
@@ -447,15 +448,15 @@ select {
   background-size: 139.9%!important
 }
 
+.julio1 {
+  background-image: url(../images/img-movil-1500/julio.png);
+  background-position: -1% 100%!important
+}
 .julio {
-  background-image: url(../images/fondos/j2.png);
+  background-image: url(../images/img-movil-1500/julio2.png);
   background-position: -1% 0!important
 }
 
-.julio1 {
-  background-image: url(../images/fondos/j1.png);
-  background-position: -1% 100%!important
-}
 
 .imagenuno2,
 .imagenuno22 {
@@ -464,12 +465,12 @@ select {
 }
 
 .imagenuno2 {
-  background-image: url(../images/fondos/prueba-01.png);
+  background-image: url(../images/img-movil-1500/mac2.png);
   background-position: 0 0!important
 }
 
 .imagenuno22 {
-  background-image: url(../images/fondos/prueba-02.png);
+  background-image: url(../images/img-movil-1500/mac.png);
   background-position: 0 100.1%!important
 }
 

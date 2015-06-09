@@ -386,6 +386,7 @@ select {
   -webkit-transform: skewY(17deg)!important;
   color: #000
 }
+/*
 .homeImage{
   
   background-image: url(../images/img-movil-1500/home-image.png);
@@ -473,7 +474,7 @@ select {
   background-image: url(../images/img-movil-1500/mac.png);
   background-position: 0 100.1%!important
 }
-
+*/
 .alturaImagenesDeFondo {
   height: 898px;
   width: 100%

@@ -1,4 +1,5 @@
-.nameInput,
+
+.name-input,
 .navbar {
   border-radius: 0
 }
@@ -23,7 +24,7 @@
 button,
 input,
 select,
-textarea {
+text-area {
   font-family: Robot-Regular
 }
 
@@ -31,7 +32,8 @@ textarea {
   margin-left: -9%
 }
 
-.contactUS {
+
+.contact-us {
   width: 6%;
   height: 75%;
   background-image: url(contact-02.png);
@@ -43,7 +45,7 @@ textarea {
   text-align: center
 }
 
-.contactUS:hover {
+.contact-us:hover {
   width: 13.5%;
   background-image: url(contact.png);
   margin-left: 84.23%;
@@ -55,72 +57,75 @@ textarea {
   display: none
 }
 
-.contactUS:hover #contact {
+.contact-us:hover #contact {
   display: inline
 }
 
-.requiredField,
-.requiredFieldSelect {
+.required-field,
+.required-fieldSelect {
   position: absolute;
   margin-left: -5%;
   color: red;
   font-size: 25px!important
 }
 
-#secondTitle,
-#thirdTitle,
+#second-title,
+#third-title,
 #titles {
   color: #fff;
   font-size: 20px;
   margin-top: -40px
 }
 
-.alinicacionBracketTitle {
+
+.alinicacion-bracket-title {
   margin-top: 1%
 }
 
-.bracketParrafo,
-.bracketParrafoLapiz,
-.complementoBracket {
+.bracket-parrafo,
+.bracket-parrafo-lapiz,
+.complemento-bracket {
   width: 2%;
   position: absolute;
   margin-top: 1%
 }
 
-.bracketParrafo {
+.bracket-parrafo {
   margin-left: -51%
 }
 
-.bracketParrafoLapiz {
+.bracket-parrafo-lapiz {
   margin-left: -46%
 }
 
-.bracketParrafoIcono,
-.bracketParrafoMapa,
-.bracketParrafoMedalla,
-.complementoBracket2 {
+.bracket-parrafo-icono,
+.bracket-parrafo-mapa,
+.bracket-parrafo-medalla,
+.complemento-bracket2 {
   width: 2%;
   position: absolute;
   margin-top: 1.5%
 }
 
-.bracketParrafoMapa {
+
+.bracket-parrafo-mapa {
   margin-left: -45%
 }
 
-.bracketParrafoIcono {
+.bracket-parrafo-icono {
   margin-left: -48%
 }
 
-.bracketParrafoMedalla {
+.bracket-parrafo-medalla {
   margin-left: -51%
 }
 
-#typeThin {
+#type-thin {
   font-family: Robot-Thin
 }
 
-.logoCognits {
+.logo-cognits {
+
   width: 20%;
   margin-top: 16px;
   margin-left: 5%
@@ -130,7 +135,8 @@ a {
   color: #fff!important
 }
 
-#titlesMenu {
+
+#titles-menu {
   margin-top: 20px
 }
 
@@ -138,38 +144,42 @@ a {
   margin-left: 450px
 }
 
-#secondTitle {
+#second-title {
   margin-left: 630px
 }
 
-#thirdTitle {
+#third-title {
   margin-left: 835px
 }
 
-.flechaIcon {
+.flecha-icon {
+
   margin-left: 400px;
   margin-top: -40px
 }
 
-.containerBeliefs {
+.container-beliefs  {
   margin-left: 16%
 }
 
-.titlesContactUs {
+.titles-contact-us {
+
   margin-top: 40px;
   font-size: 40px;
   float: left
 }
 
-.nameInput,
-.selectInput {
+
+.name-input,
+.select-input {
   background-color: #E6E7E8;
   margin-bottom: 10px;
   font-size: 16px;
   color: #9999A5
 }
 
-.nameInput {
+.name-input {
+
   padding-left: 9%
 }
 
@@ -181,20 +191,21 @@ a {
   margin-top: 58%
 }
 
-.titlesBeliefs {
+
+.titles-beliefs {
   padding-left: 50px;
   font-size: 281%
 }
 
-textarea {
+text-area {
   resize: none
 }
 
-.titlesWhyCognits {
+.titles-why-cognits{
   font-size: 40px
 }
 
-#redText {
+#red-text {
   color: #E6362B
 }
 
@@ -209,17 +220,20 @@ select {
   padding-top: 0!important
 }
 
-.positionIconsCognits {
+
+.position-icons-cognits {
   padding-left: 47px;
   margin-top: 48%
 }
 
-#logoBlack {
+
+#logo-black {
   margin-top: 12%;
   width: 35%
 }
 
-.blackLine {
+
+.black-line {
   background-color: #000;
   height: 1px;
   width: 76%;
@@ -228,48 +242,42 @@ select {
   margin-left: 12%
 }
 
-
-#bluetitle,
-#redTitle {
-  margin-top: -4%;
-  font-family: Robot-Bold;
+#blue-title,
+#red-title {
+   margin-top: -5px;
+  font-family: Robot-Bold
 }
-
-#bluetitle {
+#blue-title {
   color: #3BC2D5
 }
-
-#redTitle {
+#red-title {
   color: #E6362B
 }
-
-#iconsWidthCoete {
+#icons-width-coete {
   width: 14%
 }
-
-#iconsWidth {
+#icons-width {
   width: 19%
 }
-
-#iconsWidthBlueCognits {
+#icons-width-blue-cognits {
   width: 23%
 }
-
-.widthiconoMapa {
+.width-icono-mapa {
   width: 34%
 }
-
-.widthiIconoMedalla {
+.widthi-icono-medalla {
   width: 20%
 }
+#icons-width-blue {
 
-#iconsWidthBlue {
   width: 18px;
   margin-left: 5%;
   margin-top: 3%;
   position: absolute
 }
+
 /* Changed for Oscar */
+
 #black-text,
 #text {
   font-family: Robot-Thin;
@@ -282,12 +290,12 @@ select {
   color: #fff;
   margin-top: 5%
 }
-
 #text-contact {
   margin-left: 31%;
   font-size: 16px!important;
   margin-top: 7%!important
 }
+
 
 #black-text {
   color: #000
@@ -331,6 +339,7 @@ select {
 
 .skew-bar,
 .skew-bar-cognits-black {
+
   transform: skewY(17deg)!important;
   background-color: #242426
 }
@@ -362,6 +371,7 @@ select {
 }
 
 .content-skew-bar {
+
   width: 100%!important;
   height: 600px!important;
   background-size: 100%;
@@ -369,26 +379,33 @@ select {
   padding: 10% 4% 18%
 }
 
+
 .skew-bar {
+
   margin-top: 47.5%;
   -webkit-transform: skewY(17deg)!important
 }
 
+
 .skew-bar-cognits-black {
+
   margin-top: 33.5%;
   -webkit-transform: skewY(17deg)!important
 }
 
+
 .skew-bar-inverse {
+
   margin-top: 34.5%;
   background-color: #fff;
   transform: skewY(-17deg)!important;
   -webkit-transform: skewY(-17deg)!important
 }
 
+
 .skew-bar-inverse-contact {
   width: 100%!important;
-  height: 700px!important;
+  height: 750px!important;
   background-size: 100%;
   margin-top: 34.5%;
   background-color: #fff;
@@ -416,130 +433,146 @@ select {
   color: #000
 }
 
+
 .container-hand-image-1st-part {
-  background-image: url(../images/fondos/m2.png);
+ background-image: url(../images/img-movil-1500/phone2.png);
   background-position: -54px 0!important
 }
 
 .container-hand-image-2nd-part {
-  background-image: url(../images/fondos/m1.png);
+  background-image: url(../images/img-movil-1500/phone.png);
   background-position: -54px 100%!important
 }
 
 .container-image-notebook-1st-part {
-  background-image: url(../images/fondos/cognits2.png);
-  background-repeat: no-repeat!important;
-  background-size: 112%!important;
-  background-position: 0 0!important
-}
-
-.container-image-notebook-2nd-part {
-  background-image: url(../images/fondos/cognits1.png);
+  background-image: url(../images/img-movil-1500/cognits2.png);
   background-repeat: no-repeat!important;
   background-size: 111%!important;
   background-position: -10% 100%!important
+
 }
 
+.homeImage{
+  
+  background-image: url(../images/img-movil-1500/home-image.png);
+  background-repeat: no-repeat!important;
+  background-size: 100%!important;
+  background-position: 0 0!important
+}
+.homeImage2{
+  background-image: url(../images/img-movil-1500/home-image2.png);
+  background-repeat: no-repeat!important;
+  background-size: 98.9%!important;
+  background-position: 103% 97%!important;
+}
+
+.container-image-notebook-2nd-part {
+ background-image: url(../images/img-movil-1500/cognits.png);
+
+  background-repeat: no-repeat!important;
+  background-size: 112%!important;
+  background-position: 0% 0%!important
+}
+
+
 .container-profiles-team {
-  background-image: url(../images/fondos/grupo2.png);
+  background-image: url(../images/img-movil-1500/group-cognits2.png);
   background-repeat: no-repeat!important;
   background-size: 112%!important;
   background-position: 0 0!important
 }
 
-.grupo2 {
-  background-image: url(../images/fondos/grupo1.png);
+.container-profiles-team2 {
+
+  background-image: url(../images/img-movil-1500/group-cognits.png);
   background-repeat: no-repeat!important;
   background-size: 112.2%!important;
   background-position: 0 100%!important
 }
 
-.julio,
-.julio1 {
+.container-ux-designer,
+.container-ux-designer1 {
   background-repeat: no-repeat!important;
   background-size: 139.9%!important
 }
 
-.julio {
-  background-image: url(../images/fondos/j2.png);
+
+.container-ux-designer1 {
+  background-image: url(../images/img-movil-1500/julio.png);
+  background-position: -1% 100%!important
+}
+.container-ux-designer {
+  background-image: url(../images/img-movil-1500/julio2.png);
   background-position: -1% 0!important
 }
 
-.julio1 {
-  background-image: url(../images/fondos/j1.png);
-  background-position: -1% 100%!important
-}
 
-.imagenuno2,
-.imagenuno22 {
+
+.image-background-hand,
+.image-background-hand2 {
   background-repeat: no-repeat;
   background-size: 112%
 }
 
-.imagenuno2 {
-  background-image: url(../images/fondos/prueba-01.png);
+.image-background-hand {
+
+  background-image: url(../images/img-movil-1500/mac2.png);
+
   background-position: 0 0!important
 }
 
-.imagenuno22 {
-  background-image: url(../images/fondos/prueba-02.png);
-  background-position: 0 100%!important
+.image-background-hand2 {
+
+  background-image: url(../images/img-movil-1500/mac.png);
+  background-position: 0 100.1%!important
 }
 
-.alturaImagenesDeFondo {
+.height-image {
   height: 898px;
   width: 100%
 }
 
-.posicionImgcover2 {
+.position-img-cover2 {
   width: 99.9%
 }
-
-.imagenFondoPrueba {
-  z-index: -1;
-  position: absolute;
-  margin-top: -218px;
-  background-size: 80% 60%
-}
-
-.alturaImgPerfiles {
+.height-images-profiles {
   width: 44%;
   margin-top: 35%
 }
 
-.perfilQueri {
+.property-ux-profile {
   width: 44%;
   margin-top: 39%
 }
 
-.selectRow {
+.select-row {
   position: absolute;
   margin-top: 10px;
   padding-left: 38%
 }
 
-.alturaPrimerPerfil {
+.height-first-profile {
   width: 44%;
   margin-top: 6%
 }
 
-.alineacionPerfiles,
-.alineacionTercerPerfil {
+.aligin-profiles,
+.aligin-ux-profile {
   margin-left: 45%
 }
 
-.alineacionPrimerPerfil {
+.aligin-1st-profile {
   margin-left: 68%
 }
 
-.inputRow {
+.input-row {
   width: 3%;
   margin-left: -44%;
   position: absolute;
   margin-top: 1.5%
 }
 
-.submitDatos {
+.btn-submit {
   width: 32%;
   background-color: transparent;
   border: 0;
@@ -555,17 +588,17 @@ select {
   padding-bottom: 20px
 }
 
-.textArea {
+.text-area {
   padding-top: 4%
 }
 
-#errorMessage,
-#successMessage {
+#error-message,
+#success-message {
   color: #fff;
   font-family: Robot-Regular;
   font-size: 14px
 }
 
-.oculto {
+.hide {
   display: none!important
 }

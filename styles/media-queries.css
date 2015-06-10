@@ -31,7 +31,7 @@
   .container-text {
     padding-top: 72px
   }
-  .formaDiagonalInversaContact {
+  .skew-bar-inverse-contact {
     height: 800px!important
   }
   .content-skew-bar {
@@ -78,7 +78,7 @@
     font-size: 31px!important
   }
   .content-skew-bar,
-  .formaDiagonalInversaContact {
+  .skew-bar-inverse-contact {
     height: 100%!important
   }
   #panel {
@@ -87,10 +87,10 @@
   .grupo2 {
     background-position: 2px 100%!important
   }
-  .manoCel {
+  .container-hand-image-1st-part {
     background-position: -48px 0!important
   }
-  .manoCel2 {
+  .container-hand-image-2nd-part {
     background-position: -51px 100%!important
   }
   .col-md-12 {
@@ -102,7 +102,7 @@
   .bracketParrafoLapiz {
     margin-left: -48%
   }
-  .fondoCognits1 {
+  .container-image-notebook-2nd-part {
     background-position: -29% 100%!important
   }
   select {
@@ -258,7 +258,7 @@
       margin-top: 2%;
       position: absolute
     }
-    .fondoCognits1 {
+    .container-image-notebook-2nd-part {
       background-position: -18% 100%!important
     }
   }

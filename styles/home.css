@@ -385,8 +385,8 @@ select {
   transform: skewY(-17deg)!important;
   -webkit-transform: skewY(-17deg)!important
 }
-/* finish  change before upload to git */
-.formaDiagonalInversaContact {
+
+.skew-bar-inverse-contact {
   width: 100%!important;
   height: 700px!important;
   background-size: 100%;
@@ -398,8 +398,8 @@ select {
   padding-right: 4%
 }
 
-.manoCel,
-.manoCel2 {
+.container-hand-image-1st-part,
+.container-hand-image-2nd-part {
   background-repeat: no-repeat!important;
   background-size: 115%!important
 }
@@ -416,31 +416,31 @@ select {
   color: #000
 }
 
-.manoCel {
+.container-hand-image-1st-part {
   background-image: url(../images/fondos/m2.png);
   background-position: -54px 0!important
 }
 
-.manoCel2 {
+.container-hand-image-2nd-part {
   background-image: url(../images/fondos/m1.png);
   background-position: -54px 100%!important
 }
 
-.fondoCognits {
+.container-image-notebook-1st-part {
   background-image: url(../images/fondos/cognits2.png);
   background-repeat: no-repeat!important;
   background-size: 112%!important;
   background-position: 0 0!important
 }
 
-.fondoCognits1 {
+.container-image-notebook-2nd-part {
   background-image: url(../images/fondos/cognits1.png);
   background-repeat: no-repeat!important;
   background-size: 111%!important;
   background-position: -10% 100%!important
 }
 
-.grupo {
+.container-profiles-team {
   background-image: url(../images/fondos/grupo2.png);
   background-repeat: no-repeat!important;
   background-size: 112%!important;

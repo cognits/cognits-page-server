@@ -103,18 +103,17 @@
   .container-hand-image-1st-part {
     background-position: -49px -0.5%!important;
     background-image: url(../images/img-movil/phone2.png);
+    background-size: 117%!important;
   }
  .container-hand-image-2nd-part {
     background-image: url(../images/img-movil/phone.png);
-    background-position: -51px 100%!important
+    background-position: -51px 100%!important;
+    background-size: 117%!important;
   }
   .homeImage2 {
     background-size: 96.5%!important;
-    background-position: 110% 23.5%!important;
+    background-position: 102% 25.5%!important;
     background-image: url(../images/img-movil/home-image2.png);
-  }
-  .container-hand-image-2nd-part , .container-hand-image-1st-part {
-    background-size: 117%!important;
   }
   .homeImage{
   background-image: url(../images/img-movil/home-image.png);

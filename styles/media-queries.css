@@ -63,6 +63,47 @@
   .fondoCognits1 {
     background-position: -8.65% 100%!important
   }
+
+.container-hand-image-1st-part {
+ background-image: url(../images/fondos/phone2.png);
+}
+.container-hand-image-2nd-part {
+  background-image: url(../images/fondos/phone.png);
+}
+.container-image-notebook-1st-part {
+  background-image: url(../images/fondos/cognits2.png);
+  background-position: -9% 100%!important;
+}
+.homeImage{
+  background-image: url(../images/fondos/home-image.jpg);
+}
+.homeImage2{
+  background-image: url(../images/fondos/home-image2.jpg);
+  background-size: 98.9%!important;
+  background-position: 88% 111%!important;
+}
+.container-image-notebook-2nd-part {
+ background-image: url(../images/fondos/cognits.png);
+}
+.container-profiles-team {
+  background-image: url(../images/fondos/group-cognits2.png);
+}
+.container-profiles-team2 {
+  background-image: url(../images/fondos/group-cognits.png);
+}
+.container-ux-designer1 {
+  background-image: url(../images/fondos/julio.png);
+}
+.container-ux-designer {
+  background-image: url(../images/fondos/julio2.png);
+}
+.image-background-hand {
+  background-image: url(../images/fondos/mac2.png);
+}
+
+.image-background-hand2 {
+  background-image: url(../images/fondos/mac.png);
+}
 }
 
 @media (min-width:1613px) {

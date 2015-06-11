@@ -7,16 +7,6 @@
 .row {
   margin-right: 0
 }
-
-.backgroundModal {
-  height: 100%;
-  width: 100%;
-  opacity: .5;
-  background-color: #002636;
-  position: fixed;
-  z-index: 1001
-}
-
 .navbar-inverse {
   border-color: transparent
 }
@@ -63,7 +53,7 @@ text-area {
 }
 
 .required-field,
-.required-fieldSelect {
+.required-field-select {
   position: absolute;
   margin-left: -5%;
   color: red;
@@ -79,45 +69,45 @@ text-area {
 }
 
 
-.alinicacion-bracket-title {
+.align-bracket-title {
   margin-top: 1%
 }
 
-.bracket-parrafo,
-.bracket-parrafo-lapiz,
-.complemento-bracket {
+.bracket-paragraph,
+.bracket-paragraph-pencil,
+.complement-bracket {
   width: 2%;
   position: absolute;
   margin-top: 1%
 }
 
-.bracket-parrafo {
+.bracket-paragraph {
   margin-left: -51%
 }
 
-.bracket-parrafo-lapiz {
+.bracket-paragraph-pencil {
   margin-left: -46%
 }
 
-.bracket-parrafo-icono,
-.bracket-parrafo-mapa,
-.bracket-parrafo-medalla,
-.complemento-bracket2 {
+.bracket-paragraph-icon,
+.bracket-paragraph-map,
+.bracket-paragraph-badge,
+.complement-bracket2 {
   width: 2%;
   position: absolute;
   margin-top: 1.5%
 }
 
 
-.bracket-parrafo-mapa {
+.bracket-paragraph-map {
   margin-left: -45%
 }
 
-.bracket-parrafo-icono {
+.bracket-paragraph-icon {
   margin-left: -48%
 }
 
-.bracket-parrafo-medalla {
+.bracket-paragraph-badge {
   margin-left: -51%
 }
 
@@ -153,7 +143,7 @@ a {
   margin-left: 835px
 }
 
-.flecha-icon {
+.row-icon {
 
   margin-left: 400px;
   margin-top: -40px
@@ -188,7 +178,7 @@ a {
   margin-top: 40px
 }
 
-#formulario {
+#form {
   margin-top: 58%
 }
 
@@ -254,7 +244,7 @@ select {
 #red-title {
   color: #E6362B
 }
-#icons-width-coete {
+#icons-width-rocket {
   width: 14%
 }
 #icons-width {
@@ -263,10 +253,10 @@ select {
 #icons-width-blue-cognits {
   width: 23%
 }
-.width-icono-mapa {
+.width-icon-map{
   width: 34%
 }
-.widthi-icono-medalla {
+.width-icon-badge  {
   width: 20%
 }
 #icons-width-blue {
@@ -422,13 +412,13 @@ select {
   background-size: 115%!important
 }
 
-.contradiccionFormaDiagonal {
+.not-skew-bar {
   transform: skewY(-17deg)!important;
   -webkit-transform: skewY(-17deg)!important;
   color: #fff
 }
 
-.contradiccionFormaDiagonalInversa {
+.not-skew-bar-inverse {
   transform: skewY(17deg)!important;
   -webkit-transform: skewY(17deg)!important;
   color: #000

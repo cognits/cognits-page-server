@@ -40,24 +40,24 @@
   .content-skew-bar {
     height: 665px!important
   }
-  .bracket-parrafo {
+  .bracket-paragraph {
     margin-left: -45%;
     margin-top: .5%
   }
-  .bracket-parrafo-mapa {
+  .bracket-paragraph-map {
     margin-left: -41%;
     margin-top: .5%
   }
-  .bracket-parrafo-medalla {
+  .bracket-paragraph-badge {
     width: 2%;
     position: absolute;
     margin-left: -45%;
     margin-top: .5%
   }
-  .bracket-parrafo-lapiz {
+  .bracket-paragraph-pencil {
     margin-left: -46%
   }
-  .bracket-parrafo-icono {
+  .bracket-paragraph-icon {
     margin-left: -48%
   }
   .fondoCognits1 {
@@ -108,11 +108,11 @@
 
 @media (min-width:1613px) {
 
-  .bracket-parrafo-mapa {
+  .bracket-paragraph-map {
     margin-left: -50%
   }
-  .bracket-parrafo,
-  .bracket-parrafo-lapiz {
+  .bracket-paragraph,
+  .bracket-paragraph-pencil {
 
     margin-left: -48%
   }
@@ -124,7 +124,7 @@
   .skew-bar-inverse-contact {
     height: 100%!important
     }
-  .required-field, .required-fieldSelect {
+  .required-field, .required-field-select {
     position: absolute;
     font-size: 31px!important;
   }
@@ -193,7 +193,7 @@
   .col-md-12 {
     padding-right: 9%
   }
-  #formulario {
+  #form {
     margin-top: 2%
   }
   select {
@@ -210,10 +210,10 @@
     margin-left: 82%
   }
 
-  .bracket-parrafo-lapiz {
+  .bracket-paragraph-pencil {
     margin-left: -48%
   }
-  .required-fieldSelect {
+  .required-field-select {
     margin-left: 3%;
     padding-top: .9%!important
   }
@@ -223,10 +223,10 @@
     margin-left: -48%;
     margin-top: 1.5%
   }
-.widthi-icono-medalla {
+.width-icon-badge  {
   width: 15%
 }
-  .bracket-parrafo-medalla {
+  .bracket-paragraph-badge {
     margin-left: -48%
   }
   .aligin-1st-profile {
@@ -236,8 +236,8 @@
     width: 18%;
     margin-top: 2%
   }
-  .contradiccionFormaDiagonal,
-  .contradiccionFormaDiagonalInversa {
+  .not-skew-bar,
+  .not-skew-bar-inverse {
     padding-top: 9%
   }
   .height-images-profiles {
@@ -300,7 +300,7 @@
     display: block!important
   }
 
-  .bracket-parrafo {
+  .bracket-paragraph {
 
     margin-left: -40%
   }
@@ -321,10 +321,10 @@
     .bracket-parrafoThreeBlock {
       margin-left: -48%
     }
-    .bracket-parrafo {
+    .bracket-paragraph {
       margin-left: -47%
     }
-    .bracket-parrafo-lapiz {
+    .bracket-paragraph-pencil {
       margin-left: -42%
     }
   }
@@ -352,11 +352,11 @@
       margin-top: .5%
     }
 
-    .bracket-parrafo {
+    .bracket-paragraph {
       margin-top: -.1%;
       margin-left: -49%
     }
-    .bracket-parrafo-lapiz {
+    .bracket-paragraph-pencil {
       margin-left: -45%;
       margin-top: -.1%
     }

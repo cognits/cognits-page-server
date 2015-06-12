@@ -122,6 +122,9 @@
     margin-top: 3%;
     margin-left: 5%;
   }
+  .select-row{
+    width: 41%;
+  }
 
   .content-skew-bar,
   .skew-bar-inverse-contact {

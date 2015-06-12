@@ -60,9 +60,7 @@
   .bracket-paragraph-icon {
     margin-left: -48%
   }
-  .fondoCognits1 {
-    background-position: -8.65% 100%!important
-  }
+
 
 .container-hand-image-1st-part {
  background-image: url(../images/fondos/phone2.png);
@@ -74,10 +72,10 @@
   background-image: url(../images/fondos/cognits2.png);
   background-position: -9% 100%!important;
 }
-.homeImage{
+.home-image{
   background-image: url(../images/fondos/home-image.png);
 }
-.homeImage2{
+.home-image2{
   background-image: url(../images/fondos/home-image2.png);
   background-size: 98.9%!important;
   background-position: 88% 111%!important;
@@ -151,12 +149,12 @@
     background-position: -51px 100%!important;
     background-size: 117%!important;
   }
-  .homeImage2 {
+  .home-image2 {
     background-size: 96.5%!important;
     background-position: 102% 25.5%!important;
     background-image: url(../images/img-movil/home-image2.png);
   }
-  .homeImage{
+  .home-image{
   background-image: url(../images/img-movil/home-image.png);
   }
   
@@ -217,7 +215,7 @@
     margin-left: 3%;
     padding-top: .9%!important
   }
-  .bracket-parrafoThreeBlock {
+  .bracket-paragraph-three-block {
     width: 2%;
     position: absolute;
     margin-left: -48%;
@@ -269,11 +267,7 @@
     transform: skewY(17deg)!important;
     -webkit-transform: skewY(17deg)!important
   }
-  .fondoSubrayadoBlue,
-  .subrayado {
-    width: 109px
-  }
-  .datos {
+  .dates {
     padding-top: 2%
   }
   .input-row {
@@ -287,16 +281,16 @@
 
   }
 
-  .iconIC2 {
+  .icon-pencil {
     width: 15%!important
   }
   .row {
     margin-right: 0
   }
-  .hideResponsive {
+  .hide-responsive {
     display: none!important
   }
-  .reaparecer {
+  .reappears {
     display: block!important
   }
 
@@ -318,7 +312,7 @@
   }
   @media (min-width:414px) {
 
-    .bracket-parrafoThreeBlock {
+    .bracket-paragraph-three-block {
       margin-left: -48%
     }
     .bracket-paragraph {
@@ -345,7 +339,7 @@
       margin-top: 1.5%
     }
 
-    .bracket-parrafoThreeBlock {
+    .bracket-paragraph-three-block {
       width: 2%;
       position: absolute;
       margin-left: -49%;

@@ -188,7 +188,7 @@ a {
   font-size: 281%
 }
 
-text-area {
+textarea {
   resize: none
 }
 
@@ -316,7 +316,6 @@ select {
 
 .our-team-bar,
 .our-beliefs-bar,
-.fondoSubrayadoBlue,
 .why-cognits-blue-bar {
   background-color: #3BC2D5
 }
@@ -443,14 +442,14 @@ select {
 
 }
 
-.homeImage{
+.home-image{
   
   background-image: url(../images/img-movil-1500/home-image.png);
   background-repeat: no-repeat!important;
   background-size: 100%!important;
   background-position: 0 0!important
 }
-.homeImage2{
+.home-image2{
   background-image: url(../images/img-movil-1500/home-image2.png);
   background-repeat: no-repeat!important;
   background-size: 98.9%!important;

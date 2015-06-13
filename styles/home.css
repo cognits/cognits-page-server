@@ -30,17 +30,17 @@ text-area {
   background-repeat: no-repeat;
   position: absolute;
   margin-left: 91.74%;
-  margin-top: .5%;
+  margin-top: 0.5%;
   color: #fff;
   text-align: center
 
 }
 
 .contact-us:hover {
-  width: 13.5%;
+  width: 13%;
   background-image: url(contact.png);
-  margin-left: 84.9%;
-  margin-top: .5%;
+  margin-left: 84.78%;
+  margin-top: 0.5%;
   color: #fff
 }
 
@@ -274,20 +274,21 @@ select {
   font-family: Robot-Thin;
   font-size: 16px
 }
+#text-menu {
+  font-family: Robot-Thin;
+}
 
 #text-contact,
 #text-menu {
-  font-family: Robot-Thin;
   color: #fff;
   margin-top: 5%
 }
+
 #text-contact {
-  margin-left: 31%;
-  font-size: 16px!important;
-  margin-top: 7%!important
+  font-family: Robot-Bold;
+  margin-left: 37%;
+  margin-top: 10%!important;
 }
-
-
 #black-text {
   color: #000
 }

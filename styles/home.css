@@ -39,7 +39,7 @@ text-area {
 .contact-us:hover {
   width: 13.5%;
   background-image: url(contact.png);
-  margin-left: 84.23%;
+  margin-left: 84.9%;
   margin-top: .5%;
   color: #fff
 }
@@ -438,7 +438,7 @@ select {
   background-image: url(../images/img-movil-1500/cognits2.png);
   background-repeat: no-repeat!important;
   background-size: 111%!important;
-  background-position: -10% 100%!important
+  background-position: -10% 100.1%!important
 
 }
 

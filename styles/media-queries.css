@@ -61,7 +61,6 @@
     margin-left: -48%
   }
 
-
 .container-hand-image-1st-part {
  background-image: url(../images/fondos/phone2.png);
 }
@@ -148,18 +147,18 @@
     background-image: url(../images/img-movil/group-cognits.png);
   }
   .container-hand-image-1st-part {
-    background-position: -49px -0.5%!important;
+    background-position: -59px -0.1%!important;
     background-image: url(../images/img-movil/phone2.png);
-    background-size: 117%!important;
+    background-size: 125%!important;
   }
  .container-hand-image-2nd-part {
     background-image: url(../images/img-movil/phone.png);
     background-position: -51px 100%!important;
-    background-size: 117%!important;
+    background-size: 121%!important;
   }
   .home-image2 {
     background-size: 96.5%!important;
-    background-position: 102% 25.5%!important;
+    background-position: 106% 21.0%!important;
     background-image: url(../images/img-movil/home-image2.png);
   }
   .home-image{
@@ -171,10 +170,10 @@
     background-size: 111%!important;
     background-position: 1% 0%!important;
   }
-  .container-image-notebook-1st-part  {
+  .container-image-notebook-1st-part{
     background-image: url(../images/img-movil/cognits-2.png);
-    background-position: -42.2% 100.1%!important;
-    background-size: 108.28%!important;
+    background-position: -60.1% 100.1%!important;
+    background-size: 107.1%!important;
   }
 
 
@@ -317,9 +316,8 @@
       padding-top: 0!important;
       padding-left: 40%!important
     }
-  }
-  @media (min-width:414px) {
-
+}
+  @media (max-width:414px) {
     .bracket-paragraph-three-block {
     margin-left: -49%;
     margin-top: 1%;
@@ -330,7 +328,8 @@
     .bracket-paragraph-pencil {
       margin-left: -48%;
     }
-  }
+
+}
   @media (min-width:640px) {
     .aligin-ux-profile {
       margin-left: -33%;
@@ -389,5 +388,23 @@
       margin-left: -47.5%;
       margin-top: .5%
     }
-  }
+}
+  @media (min-width:360px) {
+    .home-image2 {
+  background-size: 98.5%!important;
+  background-position: 145% 23%!important;
+}
+}
+
+  @media (min-width:375px) {
+    .home-image2 {
+  background-size: 97.0%!important;
+  background-position: 100% 25%!important;
+}
+}
+  @media (min-width:414px) {
+    .home-image2 {
+  background-size: 97.0%!important;
+  background-position: 109% 27.0%!important;
+}
 }

@@ -11,7 +11,7 @@
     width: 100%
   }
   #panel {
-    margin-left: 7%
+     margin-left: 31%;
   }
 
   .contact-us {
@@ -21,9 +21,9 @@
   }
 
   .contact-us:hover {
-    width: 10.85%;
+    width: 10.62%;
     background-image: url(contact.png);
-    margin-left: 87.34%;
+    margin-left: 87.56%;
     margin-top: .5%;
     color: #fff
   }
@@ -76,7 +76,7 @@
 }
 .home-image2{
   background-image: url(../images/fondos/home-image2.png);
-  background-size: 98.9%!important;
+  background-size: 99.9%!important;  
   background-position: 88% 111%!important;
 }
 .container-image-notebook-2nd-part {
@@ -132,10 +132,6 @@
   .required-field, .required-field-select {
     position: absolute;
     font-size: 31px!important;
-  }
-
-  #panel {
-    text-align: center
   }
   .container-profiles-team {
     background-image: url(../images/img-movil/group-cognits-2.png);

@@ -24,7 +24,7 @@ gulp.task('minify-html', function() {
 // Pass Image 
 gulp.task('pass-minifys-image', function (){
   return gulp.src('images/**/*.png')
-    .pipe(gulp.dest('dist/image'))
+    .pipe(gulp.dest('dist/images'))
 });
 //HTML Indent Code 
 gulp.task('prettify-html', function() {

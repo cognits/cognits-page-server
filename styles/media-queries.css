@@ -118,7 +118,7 @@
 
 @media (max-width:800px) {
   .logo-cognits{
-    width: 41%;
+   width: 22%;
     margin-top: 3%;
     margin-left: 5%;
   }
@@ -281,7 +281,7 @@
   .input-row {
     width: 3%;
     margin-left: -43.5%;
-    margin-top: 3%
+    margin-top: 2%;
   }
 
   #blue-title {
@@ -321,13 +321,14 @@
   @media (min-width:414px) {
 
     .bracket-paragraph-three-block {
-      margin-left: -48%
-    }
+    margin-left: -49%;
+    margin-top: 1%;
+  }
     .bracket-paragraph {
       margin-left: -47%
     }
     .bracket-paragraph-pencil {
-      margin-left: -42%
+      margin-left: -48%;
     }
   }
   @media (min-width:640px) {

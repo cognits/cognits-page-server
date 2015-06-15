@@ -1,7 +1,8 @@
 
 .name-input,
 .navbar {
-  border-radius: 0
+  border-radius: 0;
+  margin-bottom: 0; 
 }
 
 .row {
@@ -444,17 +445,16 @@ select {
 }
 
 .home-image{
-  
   background-image: url(../images/img-movil-1500/home-image.png);
   background-repeat: no-repeat!important;
-  background-size: 100%!important;
-  background-position: 0 0!important
+  background-size: 100% auto !important;
+  background-position: 115% -1.5% !important;
 }
 .home-image2{
   background-image: url(../images/img-movil-1500/home-image2.png);
   background-repeat: no-repeat!important;
-  background-size: 98.9%!important;
-  background-position: 103% 97%!important;
+  background-size: 99.9%!important;
+  background-position: 80% 98.7%!important;
 }
 
 .container-image-notebook-2nd-part {

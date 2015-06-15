@@ -108,7 +108,18 @@
   }
 }
 
-
+@media (max-width:414px) {
+  .bracket-paragraph-three-block {
+    margin-left: -49%;
+    margin-top: 1%;
+  }
+  .bracket-paragraph {
+    margin-left: -47%
+  }
+  .bracket-paragraph-pencil {
+    margin-left: -48%;
+  }
+}
 
 @media (max-width:450px) {
   select {
@@ -316,18 +327,8 @@
   .bracket-paragraph {
     margin-left: -43%
   }
-@media (max-width:414px) {
-  .bracket-paragraph-three-block {
-    margin-left: -49%;
-    margin-top: 1%;
-  }
-  .bracket-paragraph {
-    margin-left: -47%
-  }
-  .bracket-paragraph-pencil {
-    margin-left: -48%;
-  }
 }
+
 @media (min-width:360px) {
   .home-image2 {
     background-size: 96.4%!important;

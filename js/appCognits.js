@@ -33,7 +33,7 @@ var cognitsApp = angular.module('cognitsApp', []);
 			var params = {
 				"message": {
 					"from_email":"lgarcia@cognits.co",
-					"to":[{"email":"od_cortez@galileo.edu"}],
+					"to":[{"email":"c@cognits.co"}],
 					"subject": "New contact mail",
 					"text": messageBody
 				}

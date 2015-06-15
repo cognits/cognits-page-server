@@ -1,25 +1,28 @@
-
 .name-input,
 .navbar {
   border-radius: 0;
-  margin-bottom: 0; 
+  margin-bottom: 0;
 }
 
 .row {
   margin-right: 0
 }
+
 .navbar-inverse {
   border-color: transparent
 }
+
 button,
 input,
 select,
 text-area {
   font-family: Robot-Regular
 }
+
 #panel {
   margin-left: -9%
 }
+
 .contact-us {
   width: 6%;
   height: 75%;
@@ -30,7 +33,6 @@ text-area {
   margin-top: 0.5%;
   color: #fff;
   text-align: center
-
 }
 
 .contact-us:hover {
@@ -65,7 +67,6 @@ text-area {
   margin-top: -40px
 }
 
-
 .align-bracket-title {
   margin-top: 1%
 }
@@ -95,7 +96,6 @@ text-area {
   margin-top: 1.5%
 }
 
-
 .bracket-paragraph-map {
   margin-left: -45%
 }
@@ -113,7 +113,6 @@ text-area {
 }
 
 .logo-cognits {
-
   width: 82%;
   margin-top: 20px;
   margin-left: 5%
@@ -122,7 +121,6 @@ text-area {
 a {
   color: #fff!important
 }
-
 
 #titles-menu {
   margin-top: 20px
@@ -141,22 +139,19 @@ a {
 }
 
 .row-icon {
-
   margin-left: 400px;
   margin-top: -40px
 }
 
-.container-beliefs  {
+.container-beliefs {
   margin-left: 16%
 }
 
 .titles-contact-us {
-
   margin-top: 40px;
   font-size: 40px;
   float: left
 }
-
 
 .name-input,
 .select-input {
@@ -167,7 +162,6 @@ a {
 }
 
 .name-input {
-
   padding-left: 9%
 }
 
@@ -179,7 +173,6 @@ a {
   margin-top: 58%
 }
 
-
 .titles-beliefs {
   padding-left: 50px;
   font-size: 281%
@@ -189,7 +182,7 @@ textarea {
   resize: none
 }
 
-.titles-why-cognits{
+.titles-why-cognits {
   font-size: 40px
 }
 
@@ -208,18 +201,15 @@ select {
   padding-top: 0!important
 }
 
-
 .position-icons-cognits {
   padding-left: 47px;
   margin-top: 48%
 }
 
-
 #logo-black {
   margin-top: 12%;
   width: 35%
 }
-
 
 .black-line {
   background-color: #000;
@@ -232,37 +222,45 @@ select {
 
 #blue-title,
 #red-title {
-   margin-top: -5px;
+  margin-top: -5px;
   font-family: Robot-Bold
 }
+
 #blue-title {
   color: #3BC2D5
 }
+
 #red-title {
   color: #E6362B
 }
+
 #icons-width-rocket {
   width: 14%
 }
+
 #icons-width {
   width: 19%
 }
+
 #icons-width-blue-cognits {
   width: 23%
 }
-.width-icon-map{
+
+.width-icon-map {
   width: 34%
 }
-.width-icon-badge  {
+
+.width-icon-badge {
   width: 20%
 }
-#icons-width-blue {
 
+#icons-width-blue {
   width: 18px;
   margin-left: 5%;
   margin-top: 3%;
   position: absolute
 }
+
 
 /* Changed for Oscar */
 
@@ -271,6 +269,7 @@ select {
   font-family: Robot-Thin;
   font-size: 16px
 }
+
 #text-menu {
   font-family: Robot-Thin;
 }
@@ -286,6 +285,7 @@ select {
   margin-left: 37%;
   margin-top: 10%!important;
 }
+
 #black-text {
   color: #000
 }
@@ -318,7 +318,6 @@ select {
   background-color: #3BC2D5
 }
 
-
 .what-we-do-bar,
 .why-cognits-bar,
 .contac-us-bar-title {
@@ -327,7 +326,6 @@ select {
 
 .skew-bar,
 .skew-bar-cognits-black {
-
   transform: skewY(17deg)!important;
   background-color: #242426
 }
@@ -359,7 +357,6 @@ select {
 }
 
 .content-skew-bar {
-
   width: 100%!important;
   height: 600px!important;
   background-size: 100%;
@@ -367,29 +364,22 @@ select {
   padding: 10% 4% 18%
 }
 
-
 .skew-bar {
-
   margin-top: 47.5%;
   -webkit-transform: skewY(17deg)!important
 }
 
-
 .skew-bar-cognits-black {
-
   margin-top: 33.5%;
   -webkit-transform: skewY(17deg)!important
 }
 
-
 .skew-bar-inverse {
-
   margin-top: 34.5%;
   background-color: #fff;
   transform: skewY(-17deg)!important;
   -webkit-transform: skewY(-17deg)!important
 }
-
 
 .skew-bar-inverse-contact {
   width: 100%!important;
@@ -421,9 +411,8 @@ select {
   color: #000
 }
 
-
 .container-hand-image-1st-part {
- background-image: url(../images/img-movil-1500/phone2.png);
+  background-image: url(../images/img-movil-1500/phone2.png);
   background-position: -54px 0!important
 }
 
@@ -437,30 +426,28 @@ select {
   background-repeat: no-repeat!important;
   background-size: 111%!important;
   background-position: -10% 100.1%!important
-
 }
 
-.home-image{
+.home-image {
   background-image: url(../images/img-movil-1500/home-image.png);
   background-repeat: no-repeat!important;
   background-size: 100% auto !important;
   background-position: 115% -1.5% !important;
 }
-.home-image2{
+
+.home-image2 {
   background-image: url(../images/img-movil-1500/home-image2.png);
   background-repeat: no-repeat!important;
   background-size: 99.9%!important;
-  background-position: 90% 97.7%!important;
+  background-position: 80% 98.7%!important;
 }
 
 .container-image-notebook-2nd-part {
- background-image: url(../images/img-movil-1500/cognits.png);
-
+  background-image: url(../images/img-movil-1500/cognits.png);
   background-repeat: no-repeat!important;
   background-size: 112%!important;
   background-position: 0% 0%!important
 }
-
 
 .container-profiles-team {
   background-image: url(../images/img-movil-1500/group-cognits2.png);
@@ -470,7 +457,6 @@ select {
 }
 
 .container-profiles-team2 {
-
   background-image: url(../images/img-movil-1500/group-cognits.png);
   background-repeat: no-repeat!important;
   background-size: 112.2%!important;
@@ -483,17 +469,15 @@ select {
   background-size: 139.9%!important
 }
 
-
 .container-ux-designer1 {
   background-image: url(../images/img-movil-1500/julio.png);
   background-position: -1% 100%!important
 }
+
 .container-ux-designer {
   background-image: url(../images/img-movil-1500/julio2.png);
   background-position: -1% 0!important
 }
-
-
 
 .image-background-hand,
 .image-background-hand2 {
@@ -502,14 +486,11 @@ select {
 }
 
 .image-background-hand {
-
   background-image: url(../images/img-movil-1500/mac2.png);
-
   background-position: 0 0!important
 }
 
 .image-background-hand2 {
-
   background-image: url(../images/img-movil-1500/mac.png);
   background-position: 0 100.1%!important
 }
@@ -522,6 +503,7 @@ select {
 .position-img-cover2 {
   width: 99.9%
 }
+
 .height-images-profiles {
   width: 44%;
   margin-top: 35%
